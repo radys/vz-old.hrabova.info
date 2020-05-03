@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P18V00000003</kod_vz_na_profilu>
+            <nazev_vz>celoroční údržba veřejných ploch a vyhrazených ploch v k.ú. Hrabová</nazev_vz>
+            <stav_vz>ukončeno plnění smlouvy na základě veřejné zakázky</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/91c5a880faf6fb5/5ad6d0b0719f0smlouva-o-dilo.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-04-18T06:59:28</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2018-04-18T07:00:48</datum_cas_zverejneni>
+        </VZ>
+    </zakazka>
+</profil>
+
+
+

@@ -1,0 +1,73 @@
+/* Autor: Radomir Panna - OVACLOUD.net */
+@charset "utf-8";
+
+/* RESET */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp, span,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0; 
+  border: 0;
+}
+
+body {
+	font: 10pt/1.4 "Trebuchet MS", "Geneva CE", lucida, sans-serif;
+	color: black;
+	background: none;
+	width: 100%;
+	}
+
+#ajax-spinner {
+	display: none;
+	}
+h1 {font-size: 11pt; margin-bottom: 3mm;}
+a {color: #809eb4;}
+#visual-portal-wrapper {margin: 0 auto; width: 90%;}	
+#portal-header {width: 99%;} 
+#portal-header hr {display: none;}
+#portal-header #size_font {display: none;}
+#portal-logo {display: none;}
+h2 {margin: 10mm 0 3mm 0;}
+#portal-column-one {width: 99%;}
+#portal-column-one .profile-information {border: 1px solid rgb(128,158,180); padding: 5mm; margin: 5mm 0mm;}
+.profile-information div {font-size: 9pt;}
+.banner {margin: 0 auto; text-align: center; }
+.banner img {width: 100%; max-width: 189mm;}
+ul.tender-detail {list-style: none; margin-top: 3mm; margin-bottom: 10mm;}
+ul.tender-detail li {list-style: none; border-top: 1px solid #809eb4; padding: 3mm 0; overflow: auto;}
+ul.tender-detail li:first-child {border-top: 0;}
+ul.tender-detail li .tender-caption {width: 28%; padding-left: 2%; font-weight: bold; float: left; }
+ul.tender-detail li .tender-content {width: 69%; float: right;}	
+ul.tender-detail li table {width: 70%; border: 1px solid #809eb4; border-collapse: collapse;}
+ul.tender-detail li table td, ul.tender-detail li table th {border: 1px solid #809eb4;}
+ul.tender-detail li table td {padding-left: 3mm;}
+/* form[id="frm-specificationDocumentsForm"] {display: none;}
+h3[name="specs"] {display: none;}                            */
+ul.files-download {margin-left: 10mm;}
+hr.cistic {height: 1px; border: 0; background-color: #809eb4; margin: 10mm 0 5mm 0;}
+div#footer-text {font-size: 9pt;}
+a[href="http://www.ostrava.cz"] {float: right; }
+#viewlet-above-content ul li {display: inline; margin-right: 10mm;}
+table.datagrid {border: 1px solid #809eb4; border-collapse: collapse; width: 100%;}
+table.datagrid td, table.datagrid th {border: 1px solid #809eb4; padding: 2mm;}
+table.datagrid tr.filters {display: none;}
+table.datagrid a {color: black; text-decoration: none;}
+table.datagrid th {text-align: center;}
+cufontext {display: inline !important;  height: 0 !important;  overflow: hidden !important;   text-indent: -10000in !important;   width: 0 !important;}
+
+#content a.zpet {display: none;}
+fieldset.contact {display: none;}
+fieldset.files-download ul {list-style: none; margin-top: 3mm; margin-bottom: 10mm; padding-left: 3mm;}
+fieldset.files-download ul li {list-style: none; border-top: 1px solid #809eb4; padding: 3mm 0; overflow: auto;}
+fieldset.files-download ul li input {display: none;}
+label.label-heading {font-weight: bold; margin-bottom: 5mm;padding-left: 3mm;}

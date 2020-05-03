@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P18V00000007</kod_vz_na_profilu>
+            <nazev_vz>Předcházení vzniku textilních a biologicky rozložitelných odpadů</nazev_vz>
+            <stav_vz>ukončeno plnění smlouvy na základě veřejné zakázky</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/409ec990f19c78c/5bf3c77187af6kupni-smlouva.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-20T09:36:01</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2018-11-20T09:38:22</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>29446619</ico>
+    <nazev_ucastnika>SDO Technika s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>654985.00</cena_bez_dph>
+    <cena_s_dph>792532.00</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+    </zakazka>
+</profil>
+
+
+

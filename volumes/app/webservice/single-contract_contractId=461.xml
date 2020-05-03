@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P19V00000004</kod_vz_na_profilu>
+            <kod_vz_na_vvz>Z2019-018598</kod_vz_na_vvz>
+            <nazev_vz>„Zhotovitel Mateřské školy“</nazev_vz>
+            <stav_vz>zakázka byla zadána</stav_vz>
+            <druh_zadavaciho_rizeni>užší řízení</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/320fa475530d958/5de8c4d97d2b5PZZ.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-12-05T09:51:16</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/30ba126b2f4b237/5d80e335bd79dVysvetleni-ZD-c.-7.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-09-17T15:44:21</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/bd66e7929b125f8/5d710f2ad61ecMS-BAZANOVA-HRABOVA-VYKAZVYMER-CELY-OPRAVA1.xlsx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-09-05T15:35:38</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/87e4b5ce2fe2830/5d710f2a59928Vysvetleni-ZD-c.-6.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-09-05T15:35:38</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/ced3463d06de0ca/5d690913e8ccfVysvetleni-ZD-c.-5.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-08-30T13:31:31</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/c7ff062936a96d3/5d5e4e2a82464Vysvetleni-ZD-c.-4.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-08-22T10:11:22</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/d43d9caa6e02c99/5d0d0ecf45a4cVysvetleni-ZD-c.-3.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-21T19:07:27</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/39d674997cdb469/5d0b416fb8856Vysvetleni-ZD-c.-2.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-20T10:18:55</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/38922bcc25a6f60/5d077eca36873Vysvetleni-ZD-c.-1.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-17T13:51:38</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/9cc7260ae62e3b1/5cf65964cae632.-PD-do-VZ-vcetne-VV-final.zip</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-04T13:43:32</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/8154dfa42caddbd/5cf65493bd11fPriloha-c.-4-Kvalifikacni-dokumentace.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-04T13:22:59</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/b1baa0efb9e1909/5cf654934df4a1b-Priloha-c-2-Smlouva-o-dilo.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-04T13:22:59</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/3a84163b3523afe/5cf6548c374191-Priloha-c.-1-Kryci-list.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-04T13:22:52</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/7b01eae257e44aa/5cf6546aa5a60Zadavaci-dokumentace.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-06-04T13:22:18</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2019-06-04T12:37:12</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>00014915</ico>
+    <nazev_ucastnika>Metrostav a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>61936962.06</cena_bez_dph>
+    <cena_s_dph>74943724.09</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>42864771</ico>
+    <nazev_ucastnika>Morys s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>59900734.13</cena_bez_dph>
+    <cena_s_dph>72479888.30</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>46342796</ico>
+    <nazev_ucastnika>OHL ŽS, a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>60856210.00</cena_bez_dph>
+    <cena_s_dph>73636014.10</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <dodavatel>
+                <ico>42864771</ico>
+    <nazev_dodavatele>Morys s.r.o.</nazev_dodavatele>
+    <zeme_sidla_dodavatele>CZ</zeme_sidla_dodavatele>
+    <sdruzeni_dodavatelu>0</sdruzeni_dodavatelu>
+
+        </dodavatel>
+    </zakazka>
+</profil>
+
+
+

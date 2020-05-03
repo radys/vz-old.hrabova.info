@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P16V00000001</kod_vz_na_profilu>
+            <nazev_vz>ZŠ Paskovská-učeba pro odbornou výuku</nazev_vz>
+            <stav_vz>ukončeno plnění smlouvy na základě veřejné zakázky</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/a1f754ba1c09b36/5783658f9480fsharp-2614-ostrava-hrabova.cz-20160711-113236.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-07-11T11:23:27</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2016-08-12T10:38:50</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>29398096</ico>
+    <nazev_ucastnika>Finezza facility s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>720070.67</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>181110592</ico>
+    <nazev_ucastnika>Ing. Miroslav Pytel</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>681309.71</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>48391204</ico>
+    <nazev_ucastnika>SV UNIPS s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>706141.63</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+    </zakazka>
+</profil>
+
+
+

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P18V00000006</kod_vz_na_profilu>
+            <nazev_vz>Komplexní oprava střechy  Příborská 15 a 17</nazev_vz>
+            <stav_vz>zakázka byla zadána</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/2efb79421734881/5cd03f9f3cdacDodatek-c-1-strecha-tefco-Redigovano.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-05-06T16:07:27</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/bd66e7929b125f8/5bf3cfaae66b7SOD-Prib15-17-strecha-Redigovano.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-20T10:11:06</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/6e83f027327d846/5bea96715de38vysvetleni-k-zadavaci-dokumentaci.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-13T10:16:33</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/41544a3365a46c9/5be956224cc9b4-Mos-ZP-4-SOD-Prib1517strecha.docx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-12T11:29:54</cas_vlozeni_na_profil>
+                <cislo_verze>2</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/ceee76fc5227732/5be01605c8aa7CCF05112018.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T11:05:57</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/320fa475530d958/5bdffb0fc0878PD-rez-vikyrem-1942-Prib-15-17.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:55</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/23a778dfaecdc21/5bdffb0adbe2fPD-rez-domem-Pcib-15-17.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:50</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/ff09dd601bbe69f/5bdffb0339bffPD-pudorys-strecha-1942-Prib-17-symetricke.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:43</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/0d88e4c41f2747b/5bdffaf98e384PD-pudorys-strecha-1942-Prib-15.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:33</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/b7fbbce2345d777/5bdffae92300a5-Mos-ZP-5-Prohlaseni.docx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:17</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/39d674997cdb469/5bdffae8d06632-Mos-Zad-podminky-prib1517-3-.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:16</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/28d9d4c2f636f06/5bdffae8ecde63-Mos-ZP-3-Kryci-list.xlsx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2018-11-05T09:10:16</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2018-11-05T11:06:38</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>01539671</ico>
+    <nazev_ucastnika>HEXA WORK s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>895486.00</cena_bez_dph>
+    <cena_s_dph>1029808.90</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>26850419</ico>
+    <nazev_ucastnika>LOGICAL SOLUTIONS s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>897684.00</cena_bez_dph>
+    <cena_s_dph>1032336.60</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>27830314</ico>
+    <nazev_ucastnika>TEFCO CZ, a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>858753.00</cena_bez_dph>
+    <cena_s_dph>987565.95</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+    </zakazka>
+</profil>
+
+
+

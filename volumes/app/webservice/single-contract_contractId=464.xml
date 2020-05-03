@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P19V00000006</kod_vz_na_profilu>
+            <nazev_vz>Mateřská škola – výběr TDI</nazev_vz>
+            <stav_vz>zakázka byla zadána</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/cb38f07f89ddbeb/5ddd1abe4362fS01323-JS-Property-a.s-.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-11-26T13:29:50</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2019-11-26T13:30:03</datum_cas_zverejneni>
+        </VZ>
+    </zakazka>
+</profil>
+
+
+

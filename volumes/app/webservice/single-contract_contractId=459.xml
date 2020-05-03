@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P19V00000002</kod_vz_na_profilu>
+            <nazev_vz>Obnova zeleně Šídlovec I.etapa</nazev_vz>
+            <stav_vz>zakázka byla zadána</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/08e3afb633e50cd/5cadbc5f1da9aPARKSERVIS-obnova-zelene-Sidlovec-I.etapa-anonym.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-04-10T11:50:23</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/45fceea167a5a36/5c6f89f5e42a9Vyzva-k-podani-nabidky-VZMR-profil-zadavatele.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-22T06:34:46</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/1e7ce56d3d6fa74/5c6e7b0606595zadavaci-dokumentace.zip</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-21T11:18:46</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/b1baa0efb9e1909/5c6e7b024b5f4ZD-3-Prohlaseni.docx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-21T11:18:42</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/28d9d4c2f636f06/5c6e7b0260137ZD-5-Seznam-sluzeb.xls</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-21T11:18:42</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/d43d9caa6e02c99/5c6e7b0203fc5ZD-1-Kryci-list.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-21T11:18:42</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/166fc8586dfa4d1/5c6e7b022a5fcZD-2-Pozadavky-na-obsah-smlouvy.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-21T11:18:42</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/ff09dd601bbe69f/5c6e7b01bbba3Zadavaci-podminky.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2019-02-21T11:18:41</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2019-02-22T06:35:37</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>25383035</ico>
+    <nazev_ucastnika>ARBOR MORAVIA s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1421701.93</cena_bez_dph>
+    <cena_s_dph>1720259.34</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>47676175</ico>
+    <nazev_ucastnika>AWT Rekultivace a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1210000.00</cena_bez_dph>
+    <cena_s_dph>1464100.00</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>25816977</ico>
+    <nazev_ucastnika>Ostravské městské lesy a zeleň, s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1196140.54</cena_bez_dph>
+    <cena_s_dph>1447330.05</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>28648285</ico>
+    <nazev_ucastnika>PARKSERVIS Mareš s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1033135.29</cena_bez_dph>
+    <cena_s_dph>1250093.70</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>01919652</ico>
+    <nazev_ucastnika>STROMY COMPANY,s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1206497.89</cena_bez_dph>
+    <cena_s_dph>1459862.42</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>42074509</ico>
+    <nazev_ucastnika>Tomáš Hájovský</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1453168.90</cena_bez_dph>
+    <cena_s_dph>1758334.37</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>28620968</ico>
+    <nazev_ucastnika>Údržba pozemků, a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1131706.94</cena_bez_dph>
+    <cena_s_dph>1369365.40</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>03921921</ico>
+    <nazev_ucastnika>VYKRUT zahradní služby a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1444049.98</cena_bez_dph>
+    <cena_s_dph>1747300.48</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>27822737</ico>
+    <nazev_ucastnika>ZAHRADY R+R-realizace a údržba zahrad s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>1332284.02</cena_bez_dph>
+    <cena_s_dph>1612063.66</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <dodavatel>
+                <ico>28648285</ico>
+    <nazev_dodavatele>PARKSERVIS Mareš s.r.o.</nazev_dodavatele>
+    <zeme_sidla_dodavatele>CZ</zeme_sidla_dodavatele>
+    <sdruzeni_dodavatelu>0</sdruzeni_dodavatelu>
+    <rozpad>
+        <rok_smlouvy>2019</rok_smlouvy>
+        <cena_za_rok_bez_dph>815939.29</cena_za_rok_bez_dph>
+        <cena_za_rok_s_dph>987286.54</cena_za_rok_s_dph>
+    </rozpad>
+
+        </dodavatel>
+    </zakazka>
+</profil>
+
+
+

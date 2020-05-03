@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P16V00000003</kod_vz_na_profilu>
+            <nazev_vz>Revitalizace ploch Šídlovec-Šrobárova-V.Huga,Ostrava-Hrabová-komunikace a zpevněné plochy</nazev_vz>
+            <stav_vz>ukončeno plnění smlouvy na základě veřejné zakázky</stav_vz>
+            <druh_zadavaciho_rizeni>zjednodušené podlimitní řízení</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/cb38f07f89ddbeb/57f49ef6ad03f14a-Pisemna-zprava-zadavatele-VZ-34-2016.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-10-05T08:34:30</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/8154dfa42caddbd/57e0f8b4baeceSOD-2614-ostrava-hrabova.cz-20160920-095550.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-09-20T10:52:04</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/cce2e2d7fbdea1a/57cffc442bc5dOznameni-o-vyberu-nejvhodnejsi-nabidky.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-09-07T13:38:44</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/53df766fa44e1ed/57b2f74b65d93Dodatecne-informace-c-1-Priloha-c-1-Vykaz-vymer-elektro-IO-03-VO.xlsx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-16T13:21:47</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/0d928d4bf8ce0ff/57b2f66c12e9bDodatecne-informace-c-1-profil-zadavatele.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-16T13:18:04</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/dad99908345f743/57ac5bdf2ea18ZD-Priloha-c-10-Stavebni-povoleni.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:05:03</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/2f45568161a8cdf/57ac5bdd99bdaZD-Priloha-c-9-Povoleni-stavby-vodniho-dila.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:05:01</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/f10e0327ad868d1/57ac5bdb4f035ZD-Priloha-c-8-Uzemni-rozhodnuti.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:04:59</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/b37c30201f73f14/57ac5bd87164eZD-priloha-c-7-Projektova-dokumentace.zip</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:04:56</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/76acbf4caaed33c/57ac5b6469fc3ZD-Priloha-c-6-Prohlaseni-uchazece-o-seznameni-se-s-odkazy-ve-smlouve.docx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:03:00</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/409ec990f19c78c/57ac5b63ac76cZD-Priloha-c-5-Cestne-prohlaseni.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:59</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/8154dfa42caddbd/57ac5b62e79b8ZD-Priloha-c-4-Seznam-a-prohlaseni.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:58</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/7b01eae257e44aa/57ac5b622938dZD-Priloha-c-3-Seznam-subdodavatelu.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:58</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/6bb14875e45bba0/57ac5b6158e82ZD-Priloha-c-2-Kryci-list.doc</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:57</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/8317fbdb1988ef4/57ac5b60b2011ZD-Priloha-c-1-Pozadavky-na-obsah-smlouvy.docx</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:56</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/a18f00665ce8623/57ac5b5f8f350Zadavaci-dokumentace.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:55</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/0b4568125ed6c3f/57ac5b5b81ff1Vyzva-profil-zadavatele.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-08-11T13:02:51</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2016-08-11T13:06:15</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>47676175</ico>
+    <nazev_ucastnika>AWK REKULTIVACE a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>6745814.51</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>25396196</ico>
+    <nazev_ucastnika>CSK-INVEST s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>8280868.00</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>25855581</ico>
+    <nazev_ucastnika>JANKOSTAV s.r.o.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>6099238.03</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>60838744</ico>
+    <nazev_ucastnika>STRABAG a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>7679013.85</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <ucastnik>
+                <ico>27830314</ico>
+    <nazev_ucastnika>TEFCO CZ, a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph></cena_bez_dph>
+    <cena_s_dph>7116792.00</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+        <dodavatel>
+                <ico>25855581</ico>
+    <nazev_dodavatele>JANKOSTAV s.r.o.</nazev_dodavatele>
+    <zeme_sidla_dodavatele>CZ</zeme_sidla_dodavatele>
+    <sdruzeni_dodavatelu>0</sdruzeni_dodavatelu>
+    <rozpad>
+        <rok_smlouvy>2016</rok_smlouvy>
+        <cena_za_rok_bez_dph>899935.21</cena_za_rok_bez_dph>
+        <cena_za_rok_s_dph>1088921.61</cena_za_rok_s_dph>
+    </rozpad>
+    <rozpad>
+        <rok_smlouvy>2016</rok_smlouvy>
+        <cena_za_rok_bez_dph>5040692.59</cena_za_rok_bez_dph>
+        <cena_za_rok_s_dph>6099238.04</cena_za_rok_s_dph>
+    </rozpad>
+
+        </dodavatel>
+    </zakazka>
+</profil>
+
+
+

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<profil xmlns="urn:cz:isvz:mmr:schemas:vz-z-profilu-zadavatele:v100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <profil_kod>60054732</profil_kod>
+    <zadavatel>
+        <nazev_zadavatele>Statutární město Ostrava, městský obvod Hrabová</nazev_zadavatele>
+        <ico_vlastni>00845451</ico_vlastni>
+    </zadavatel>
+    <zakazka>
+        <VZ>
+            <kod_vz_na_profilu>P16V00000008</kod_vz_na_profilu>
+            <nazev_vz>Oprava izolace a odvodnění domů, a oprava chodníků za domy Příborská 15-19</nazev_vz>
+            <stav_vz>ukončeno plnění smlouvy na základě veřejné zakázky</stav_vz>
+            <druh_zadavaciho_rizeni>zakázka malého rozsahu</druh_zadavaciho_rizeni>
+            <delena_na_casti>0</delena_na_casti>
+            <ramcova_dohoda>0</ramcova_dohoda>
+            <zavedeni_dns>0</zavedeni_dns>
+            <dokument>
+                <url>http://vz-hrabova.ostrava.cz/files/238a0b923820dcc/5829cc06c09d1263-sekos.pdf</url>
+                <typ_dokumentu>Jiný dokument (zadavatel uvede název tohoto typu dokumentu)</typ_dokumentu>
+                <cas_vlozeni_na_profil>2016-11-14T15:36:54</cas_vlozeni_na_profil>
+                <cislo_verze>1</cislo_verze>
+            </dokument>
+            <datum_cas_zverejneni>2016-11-14T15:37:24</datum_cas_zverejneni>
+        </VZ>
+        <ucastnik>
+                <ico>25832654</ico>
+    <nazev_ucastnika>SEKOS Morava a.s.</nazev_ucastnika>
+    <zeme_sidla>CZ</zeme_sidla>
+    <cena_bez_dph>375975.42</cena_bez_dph>
+    <cena_s_dph>454930.32</cena_s_dph>
+    <sdruzeni>0</sdruzeni>
+
+        </ucastnik>
+    </zakazka>
+</profil>
+
+
+
